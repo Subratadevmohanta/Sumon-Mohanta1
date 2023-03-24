@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sumon-Mohanta1/static/css/main.51f476fb.css",
+    "main.js": "/Sumon-Mohanta1/static/js/main.047f2652.js",
+    "static/media/img6.jpeg": "/Sumon-Mohanta1/static/media/img6.b72c19b04fbdf0d49a0d.jpeg",
+    "static/media/CV.pdf": "/Sumon-Mohanta1/static/media/CV.7974b60b4538693c224d.pdf",
+    "static/media/avater5.png": "/Sumon-Mohanta1/static/media/avater5.7654b579cf1b2ce074a6.png",
+    "static/media/img4.jpg": "/Sumon-Mohanta1/static/media/img4.bc93eefa4e7c9bb59b91.jpg",
+    "static/media/Home.png": "/Sumon-Mohanta1/static/media/Home.e0fd56801f244a65bada.png",
+    "static/media/sumon.png": "/Sumon-Mohanta1/static/media/sumon.712e6ae601238d14d788.png",
+    "static/media/avater2.png": "/Sumon-Mohanta1/static/media/avater2.bb957676caeb196dd462.png",
+    "static/media/avater3.png": "/Sumon-Mohanta1/static/media/avater3.9a26cb13ee1113588381.png",
+    "static/media/avater1.png": "/Sumon-Mohanta1/static/media/avater1.db9452dc30c5d5c777a7.png",
+    "static/media/img5.jpeg": "/Sumon-Mohanta1/static/media/img5.122be1fcf18a5d854e51.jpeg",
+    "static/media/img2.jpeg": "/Sumon-Mohanta1/static/media/img2.4bb74e0b5e805bf13672.jpeg",
+    "static/media/avater4.png": "/Sumon-Mohanta1/static/media/avater4.3f410c37620ed17e332f.png",
+    "static/media/img1.jpg": "/Sumon-Mohanta1/static/media/img1.6d70586aa3779fe90521.jpg",
+    "static/media/img3.jpeg": "/Sumon-Mohanta1/static/media/img3.0255039e7af757ff4088.jpeg",
+    "index.html": "/Sumon-Mohanta1/index.html",
+    "main.51f476fb.css.map": "/Sumon-Mohanta1/static/css/main.51f476fb.css.map",
+    "main.047f2652.js.map": "/Sumon-Mohanta1/static/js/main.047f2652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f476fb.css",
+    "static/js/main.047f2652.js"
+  ]
+}
